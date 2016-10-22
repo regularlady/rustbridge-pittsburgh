@@ -1,0 +1,6 @@
+[package]
+name = "rustbridge-pittsburgh"
+version = "0.1.0"
+authors = ["Brittany Martin <brittany.jill.martin@gmail.com>"]
+
+[dependencies]
